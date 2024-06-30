@@ -1,4 +1,4 @@
-
+Deployed Link:- https://future-core-innovation-task-1.vercel.app/
 
 ### Screenshots
 
