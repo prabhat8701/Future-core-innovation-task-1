@@ -1,4 +1,4 @@
-Deployed Link:- https://future-core-innovation-task-1.vercel.app/
+Deployed Link:- https://future-core-innovation-ta-git-28bb4b-prabhats-projects-c51b480a.vercel.app/
 
 ### Screenshots
 
